@@ -19,3 +19,4 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 - Make sure you have a C++ compiler installed on your machine.
+https://github.com/saivedasai/number-game/assets/156206828/e5e850c5-a19d-4061-b8a0-5be45365c699
